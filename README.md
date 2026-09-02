@@ -1,9 +1,9 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-25-26
 
-<h3>ENTER YOUR NAME : Sriram Gopalan G</h3>
-<h3>ENTER YOUR REGISTER NO. : 212222230149</h3>
+<h3>ENTER YOUR NAME : HARISH S</h3>
+<h3>ENTER YOUR REGISTER NO. : 26018007</h3>
 <h3>EX. NO : 05</h3>
-<h3>DATE : </h3>
+<h3>DATE : </2.9.20263>
 
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   
@@ -35,10 +35,6 @@ Google Colab with NVCC Compiler
 13.	Free Device Memory: Finally, free the device memory that was allocated for the matrices.
     
 ## PROGRAM:
-```
-Developed By : Sriram Gopalan G
-Register No. : 212222230149
-```
 ```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 %load_ext nvcc4jupyter
